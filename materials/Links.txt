@@ -6,3 +6,4 @@ TensorFlow documentation: https://www.tensorflow.org/versions/r1.3/api_docs/pyth
 
 https://habr.com/post/318970/
 https://habr.com/company/wunderfund/blog/331310/ мастхэв статья LSTM
+https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47
