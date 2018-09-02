@@ -10,3 +10,6 @@ https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-i
 
 русскоязычные корпуса предобученные word2vec
 http://rusvectores.org/ru/models/
+
+embeddings
+https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
